@@ -6,8 +6,10 @@
 public class exercise2 {
 
 	public static void main(String[] args) {
-		//System.out.println(12+17);
-		Integer total = 0;
+		//i = int(input("enter a number:"))
+				
+		
+		//Integer total = 0;
 		
 		/*
 		 * for (String s: args) { //System.out.println(s);
